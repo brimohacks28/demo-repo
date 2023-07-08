@@ -5,3 +5,6 @@ It is never too late to join Git!
 ##subheader
 
 Look who learned about cloning code!
+
+## Local Development
+1.Open Index.html in your browser.
